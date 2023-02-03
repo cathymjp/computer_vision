@@ -1,4 +1,4 @@
-# computer_vision
+# Computer Vision
 
 ## Environment
 - Computer Vision (2020 Fall Semester)
@@ -8,9 +8,9 @@
 ## Description
 ### CV01
 #### Point Operations
-- short video sequence of some moving foreground objects while the background remains stationary
+- Short video sequence of some moving foreground objects while the background remains stationary
 - Generate a backround image with the mean image of the sequence
-- background subtraction to segment the foreground objects <br/>
+- Use background subtraction to segment the foreground objects <br/>
 <img src="https://user-images.githubusercontent.com/45842934/216033818-e3b7a9b4-932b-40a3-98f7-514dac254b84.png" height="260" />
 
 #### Binary Image Processing 
